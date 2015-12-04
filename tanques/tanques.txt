@@ -1,0 +1,6 @@
+tanUno 0.8 1.8 1.2 2.2
+tanDos 1.4 1.8 1.8 2.2
+tanTres 0.1 1.8 0.5 2.2
+tanCinc 4.2 2.2 5.1 2.5
+tanSeis 1.1 4.1 1.3 6.2
+tanSiet 1.5 5.0 1.6 5.1

@@ -1,0 +1,6 @@
+pozoUno1 4.2 7.5 0.5
+pozoDos2 8.0 7.0 1.2
+pozoTres 2.9 5.1 0.2
+pozoCuatro 5.5 4.9 0.9
+pozoCinco 2.7 1.9 0.7
+pozoSeis 8.1 2.1 2.0
